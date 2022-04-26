@@ -1,0 +1,16 @@
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\bin\Debug\netcoreapp3.1\quiz.exe
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\bin\Debug\netcoreapp3.1\quiz.deps.json
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\bin\Debug\netcoreapp3.1\quiz.runtimeconfig.json
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\bin\Debug\netcoreapp3.1\quiz.runtimeconfig.dev.json
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\bin\Debug\netcoreapp3.1\quiz.dll
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\bin\Debug\netcoreapp3.1\quiz.pdb
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\obj\Debug\netcoreapp3.1\quiz.Form1.resources
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\obj\Debug\netcoreapp3.1\quiz.csproj.GenerateResource.cache
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\obj\Debug\netcoreapp3.1\quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\obj\Debug\netcoreapp3.1\quiz.AssemblyInfoInputs.cache
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\obj\Debug\netcoreapp3.1\quiz.AssemblyInfo.cs
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\obj\Debug\netcoreapp3.1\quiz.csproj.CoreCompileInputs.cache
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\obj\Debug\netcoreapp3.1\quiz.dll
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\obj\Debug\netcoreapp3.1\quiz.pdb
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\obj\Debug\netcoreapp3.1\quiz.genruntimeconfig.cache
+C:\Users\Wercia\source\repos\programowanie\quiz\quiz\obj\Debug\netcoreapp3.1\quiz.CreateQuizForm.resources

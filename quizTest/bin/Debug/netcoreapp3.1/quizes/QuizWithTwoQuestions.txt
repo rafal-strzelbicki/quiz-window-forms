@@ -1,0 +1,13 @@
+id 1
+pytanie Pytanie
+A Odpowiedz 1
+B Odpowiedz 0
+C Odpowiedz 0
+D Odpowiedz 0
+
+id 2
+pytanie Pytanie
+A Odpowiedz 0
+B Odpowiedz 0
+C Odpowiedz 1
+D Odpowiedz 1
